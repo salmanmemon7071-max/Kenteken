@@ -1,0 +1,4142 @@
+{
+  "settings": {
+    "currency": "EUR",
+    "packages": [
+      {
+        "id": "basic",
+        "name": "Basic",
+        "price": 44.95,
+        "tag": "A clear starting point",
+        "description": "Get the core available vehicle details in one easy-to-read report.",
+        "features": [
+          "Vehicle specifications",
+          "Accident information",
+          "Owner history",
+          "Safety recalls",
+          "Market value range"
+        ],
+        "featured": false
+      },
+      {
+        "id": "gold",
+        "name": "Gold",
+        "price": 89.95,
+        "tag": "More context for your research",
+        "description": "Build on the Basic report with additional listing, warranty, equipment, and salvage information when available.",
+        "features": [
+          "Everything in Basic",
+          "Online listing history",
+          "Warranty information",
+          "Installed equipment",
+          "Salvage information"
+        ],
+        "featured": true
+      },
+      {
+        "id": "platinum",
+        "name": "Platinum",
+        "price": 99.95,
+        "tag": "A broader vehicle history view",
+        "description": "Bring together the available records in a more detailed package to support your next questions.",
+        "features": [
+          "Everything in Gold",
+          "Theft & recovery records",
+          "Detailed ownership costs",
+          "Vehicle history overview",
+          "3 vehicle reports"
+        ],
+        "featured": true
+      },
+      {
+        "id": "diamond",
+        "name": "Diamond",
+        "price": 129.95,
+        "tag": "A deeper look at key records",
+        "description": "Review additional ownership, accident, theft, recall, and listing details when available.",
+        "features": [
+          "Ownership costs",
+          "Accident information",
+          "Theft & recovery records",
+          "Safety recall status",
+          "Online listing history"
+        ],
+        "featured": false
+      },
+      {
+        "id": "ruby",
+        "name": "Ruby",
+        "price": 239.95,
+        "tag": "More records to explore",
+        "description": "A broader set of vehicle history details for shoppers who want to research further.",
+        "features": [
+          "Ownership costs & history",
+          "Accident information",
+          "Market value range",
+          "Safety recalls & warranties",
+          "Theft & recovery records"
+        ],
+        "featured": false
+      },
+      {
+        "id": "sapphire",
+        "name": "Sapphire",
+        "price": 499.95,
+        "tag": "Our most detailed report option",
+        "description": "Explore an extensive set of available vehicle history and ownership records.",
+        "features": [
+          "Two buyer numbers",
+          "Ownership costs & history",
+          "Accident information",
+          "Safety recalls & warranties",
+          "Theft & recovery records"
+        ],
+        "featured": false
+      },
+      {
+        "id": "window-sticker",
+        "name": "Window Sticker",
+        "price": 29.99,
+        "tag": "Factory details at a glance",
+        "description": "Check available original equipment and window label details for eligible vehicles.",
+        "features": [
+          "Vehicle window label verification",
+          "Original equipment details",
+          "Digital delivery",
+          "Fast turnaround",
+          "Covers most vehicles"
+        ],
+        "featured": false
+      },
+      {
+        "id": "salvage-information",
+        "name": "Salvage Information",
+        "price": 149,
+        "tag": "Understand salvage and rebuilt records",
+        "description": "Review available title, repair, and rebuilt vehicle information.",
+        "features": [
+          "Repair cost value",
+          "Road legal status",
+          "Rebuilt status",
+          "Resale value context",
+          "Financing considerations"
+        ],
+        "featured": false
+      },
+      {
+        "id": "service-maintenance-records",
+        "name": "Service & Maintenance Records",
+        "price": 399.99,
+        "tag": "Explore the service history",
+        "description": "Review available service and maintenance records, costs, and timeline details.",
+        "features": [
+          "Service history timeline",
+          "Total maintenance cost",
+          "Service frequency",
+          "Vehicle health report",
+          "Cost tracking & documentation"
+        ],
+        "featured": false
+      }
+    ],
+    "pricingRules": {
+      "windowStickerDiscountPercentByPackage": {
+        "ruby": 0,
+        "sapphire": 0,
+        "salvage-information": 0,
+        "service-maintenance-records": 0
+      }
+    },
+    "logoText": "Kenteken Verify",
+    "logoUrl": "/uploads/logo-40dd8273-1821-4b82-a429-02f1a8d50f99.png",
+    "footer": {
+      "heading": "Vehicle research, made clearer.",
+      "subheading": "Straightforward vehicle history reports to help you ask better questions before your next purchase.",
+      "contactHeading": "Contact",
+      "contactEmail": "allvinreport@gmaila.com",
+      "contactPhone": "",
+      "exploreHeading": "Explore",
+      "exploreLinks": [
+        {
+          "label": "Pricing",
+          "href": "#pricing-page"
+        },
+        {
+          "label": "How it works",
+          "href": "#how-it-works"
+        },
+        {
+          "label": "Our data sources",
+          "href": "#sources"
+        },
+        {
+          "label": "FAQ",
+          "href": "#faq"
+        }
+      ],
+      "companyHeading": "ALL VIN REPORT",
+      "companyLinks": [
+        {
+          "label": "About Us",
+          "href": "#about-us"
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "#terms"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "#privacy"
+        },
+        {
+          "label": "Refund Policy",
+          "href": "#refund"
+        }
+      ],
+      "paymentIcons": [
+        "Visa",
+        "Mastercard",
+        "PayPal",
+        "Apple Pay"
+      ],
+      "copyright": "© 2026 VINtrue. All rights reserved."
+    },
+    "faqs": [
+      {
+        "question": "Can I get a refund?",
+        "answer": "Refund eligibility depends on the order and delivery status. Please read the Refund Policy before ordering, and contact support if you need help with an order."
+      }
+    ],
+    "reviews": [
+      {
+        "id": "d44f3d5d-3178-4a8d-abe5-746da5462bd0",
+        "name": "Michael T.",
+        "location": "California",
+        "rating": 5,
+        "text": "Super fast and no confusing jargon. I got the PDF in seconds right on my phone while standing on the dealer's lot. Highly recommend.",
+        "published": true
+      },
+      {
+        "id": "4899ffca-c4a0-40ed-864e-7c531fc7057c",
+        "name": "Sophie W.",
+        "location": "Texas",
+        "rating": 5,
+        "text": "A dealer tried to sell me a minor fender bender car. The report pulled up auction photos showing it was totally wrecked last year.",
+        "published": true
+      }
+    ],
+    "policyPages": {
+      "about-us": "## Helping you make a considered choice\n\nVINtrue is designed to make vehicle history easier to understand. We bring available vehicle records together in one straightforward report so shoppers can ask better questions before buying.\n\n## Information for your next step\n\nReports may include vehicle specifications, accident and title information, ownership records, recalls, past listings, and other details when available. Every vehicle has its own record history, and the information available can vary.\n\n## Use reports thoughtfully\n\nA report is a useful starting point, not a substitute for a professional inspection, a test drive, or checking official vehicle documents. If something matters to your decision, confirm it with the relevant authority or a qualified mechanic.",
+      "terms": "## Using VINtrue\n\nBy using this website or purchasing a report, you agree to use the service lawfully and provide accurate information. You must be authorized to submit any vehicle details you enter.\n\n## Reports and data availability\n\nVehicle reports compile information from third-party and public records. Records can be incomplete, delayed, or unavailable. VINtrue does not guarantee that a report contains every event in a vehicle’s history or that all information is error-free. Reports are for general informational purposes and are not a substitute for an independent vehicle inspection, an official title search, or professional advice.\n\n## Orders and service\n\nPackage contents and prices are displayed before purchase. Please check your VIN or plate details and selected package before placing an order. A submitted order authorizes the selected payment method to be charged the displayed total.\n\n## Acceptable use\n\nYou agree not to misuse the website, attempt unauthorized access, interfere with service availability, or use vehicle information in ways prohibited by applicable law.\n\n## Contact\n\nQuestions about these terms can be sent to allvinreport@gmaila.com.",
+      "privacy": "## Information you provide\n\nTo help prepare a vehicle report, we may process the VIN or license plate you submit, your contact information, and the information needed to complete your order. When you visit, your browser may ask to access your device location. A successful location reading is required to submit an order; we store the coordinates and reported accuracy with the order. Location access requires your browser permission and a secure (HTTPS or localhost) connection.\n\n## Device and order records\n\nWhen an order is submitted, we record the request IP address and derived browser, device, and platform categories. We also retain order creation and completion times, report delivery records, and report-link access logs to operate the service, prevent fraud, and respond to disputes.\n\n## How information is used\n\nWe use submitted information to provide the requested report, process payment, respond to support requests, protect the service, and meet applicable legal requirements.\n\n## Service providers\n\nInformation may be shared with service providers that help process payments, retrieve vehicle records, deliver reports, and operate the website.\n\n## Retention and security\n\nWe keep order and support information for as long as reasonably needed to provide the service, resolve disputes, and meet legal obligations.\n\n## Your choices\n\nDevice location is required to submit an order. Your browser must grant location permission; declining or blocking the prompt prevents order submission. We store the coordinates and reported accuracy with the order. For questions about personal information or to request access or correction where applicable, contact allvinreport@gmaila.com.\n\n## Updates\n\nWe may update this policy as our services change. The date above shows when the latest version was published.",
+      "cancellation": "## Cancellation requests\n\nContact customer support promptly if you want to cancel an order. We review requests based on the order and report preparation status, subject to applicable law.\n\n## Digital delivery\n\nA vehicle inspection report is a digital product. Once the report is delivered, it cannot be returned, as disclosed during checkout.\n\n## Contact\n\nEmail allvinreport@gmail.com with your order reference and the email address used at checkout.",
+      "refund": "## When a report order may qualify\n\nIf a paid report cannot be delivered because of a technical issue on our side, or submitted vehicle details cannot be processed, contact customer support. We will review the order and, where appropriate, arrange a replacement report or refund.\n\n## How to request help\n\nEmail allvinreport@gmaila.com with your order reference, the email used at checkout, and a short description of the issue. Please do not include full payment-card details.\n\n## Order review\n\nBecause a vehicle report is a digital service prepared using submitted vehicle details, requests made after report delivery are reviewed individually. Duplicate charges and paid orders that were not fulfilled will be investigated.\n\n## Refund timing\n\nOnce approved, refunds are sent to the original payment method. Your bank or payment provider controls how long the credit takes to appear.\n\n## Before you order\n\nPlease carefully check your VIN or license plate and selected package before payment. Report availability varies by vehicle and data source."
+    },
+    "countries": [
+      "Netherlands"
+    ],
+    "tawk": {
+      "enabled": true,
+      "siteId": "6af76958e24bed3c378b948c",
+      "widgetId": "1k7b770ot"
+    }
+  },
+  "orders": [],
+  "logs": [
+    {
+      "id": "19f42fc9-a6d0-4509-a6f4-af81f341439a",
+      "at": "2026-11-24T21:22:20.196Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7ce7b188-adb9-488f-9601-8f146cce6589",
+      "at": "2026-11-24T21:14:52.603Z",
+      "action": "admin.password_changed",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8e221ed0-5d25-481e-9a8d-e7a044e6fc52",
+      "at": "2026-11-24T20:56:19.829Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 2,
+        "orderNumbers": [
+          "AVR-AV-2026-11-24-09",
+          "AVR-AV-2026-11-24-08"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "50955fc5-a359-40a0-a0c1-3bedc5be2166",
+      "at": "2026-11-24T20:56:14.343Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f79a2f24-aafb-410f-81fd-2ee2dd2e4fd5",
+      "at": "2026-11-24T20:29:10.540Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-09",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": false,
+          "stickerCents": 0,
+          "stickerDiscountCents": 0,
+          "discountCents": 0,
+          "discountLabel": "",
+          "certificateIncluded": false,
+          "totalCents": 4495,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            }
+          ],
+          "subtotalCents": 4495,
+          "primaryAmount": "44.95",
+          "stickerAmount": "0.00",
+          "discountAmount": "0.00",
+          "totalAmount": "44.95"
+        },
+        "currency": "EUR",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "0ba5d50a-2738-4b6a-b155-28e9be5e9046",
+      "at": "2026-11-24T20:26:07.589Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-08",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "EUR",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "cf59a5bd-457a-49f8-a499-7f174c142309",
+      "at": "2026-11-24T20:25:54.640Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "57f9d555-4591-4efb-b41c-cad60dbbb804",
+      "at": "2026-11-24T20:25:38.935Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 3,
+        "orderNumbers": [
+          "AVR-AV-2026-11-24-07",
+          "AVR-AV-2026-11-24-06",
+          "AVR-AV-2026-11-24-05"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "837efa52-30d1-4f4e-9f76-ffb4c3fc23ec",
+      "at": "2026-11-24T20:25:30.902Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6d3657bd-f0bb-414a-a1f2-bfc9387e4811",
+      "at": "2026-11-24T20:19:15.349Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-07",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "EUR",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a0061fe3-891b-4f4f-9671-0ae07c01ead8",
+      "at": "2026-11-24T20:18:50.982Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7e35094b-a900-42d9-a31a-eed72a901dd7",
+      "at": "2026-11-24T20:18:43.364Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7522f8ae-f36f-438d-8de3-cc2d513015c5",
+      "at": "2026-11-24T20:18:05.995Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-06",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "EUR",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "bcfae989-f0d9-4501-aac2-9be7818c888e",
+      "at": "2026-11-24T20:17:50.392Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "65f0fffb-9183-40e8-999d-0abecafe88d8",
+      "at": "2026-11-24T20:16:15.645Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-05",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f398e45e-8d33-40ea-b199-16dc9cbbe24b",
+      "at": "2026-11-24T20:15:42.398Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "live",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7e809544-2bf8-4d3f-a534-34f222ef9244",
+      "at": "2026-11-24T20:15:35.549Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7939bb47-b305-4b10-bae5-80099bb729a5",
+      "at": "2026-11-24T20:03:59.578Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 2,
+        "orderNumbers": [
+          "AVR-AV-2026-11-24-04",
+          "AVR-AV-2026-11-24-03"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "fd2bf655-c366-4238-8ea1-08a97ec582d8",
+      "at": "2026-11-24T20:02:51.640Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-04",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "fb982ff8-bef0-46ff-9187-1efa9dd1ca5f",
+      "at": "2026-11-24T20:02:31.810Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "live",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2674871c-72f6-4b59-a385-4d5b1d4137f7",
+      "at": "2026-11-24T20:00:31.118Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ebb3b904-c759-4a71-997e-684ff17c0166",
+      "at": "2026-11-24T19:51:42.107Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-03",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "22ea83f3-84d5-4271-a9e5-07c29a896d5b",
+      "at": "2026-11-24T19:50:13.195Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a0eb6fa2-3fc9-47cd-9980-e2ce961c81b5",
+      "at": "2026-11-24T19:49:21.507Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 6,
+        "orderNumbers": [
+          "AVR-AV-2026-11-24-02",
+          "AVR-AV-2026-11-24-01",
+          "AVR-AV-2026-11-23-01",
+          "AVR-AV-2026-11-21-14",
+          "AVR-AV-2026-11-21-13",
+          "AVR-AV-2026-11-21-12"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "d736c06f-c1a6-443e-a795-5fa9c55f4653",
+      "at": "2026-11-24T19:49:17.111Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a12e6721-22fb-4c41-934f-10844bf2c395",
+      "at": "2026-11-24T19:45:18.881Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "1a57243b-5af1-4533-95e8-78c3e06252a6",
+      "at": "2026-11-24T19:44:56.904Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "4f6d44f9-d5f8-4fb0-993b-b44c74aed86d",
+      "at": "2026-11-24T19:44:35.294Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-02",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e2c44474-9d26-4f29-a6cc-90883559f3ef",
+      "at": "2026-11-24T19:44:13.376Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "223787e4-c5be-4bb6-b920-67724e0255e8",
+      "at": "2026-11-24T19:42:26.454Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "91e0a623-183e-44ed-b0a7-ed6bb88c554c",
+      "at": "2026-11-24T19:42:04.200Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "544630b5-b2e5-4bca-b072-dc595d7af6d9",
+      "at": "2026-11-24T19:35:18.082Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "d76a4472-cd9e-4685-aab1-67d8a174504a",
+      "at": "2026-11-24T19:35:15.909Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a27dc878-7d98-4160-ada8-7621a06e9488",
+      "at": "2026-11-24T19:34:56.866Z",
+      "action": "website.logo_updated",
+      "detail": {},
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "cdaf071b-7fba-4938-994b-5d7b7302cc91",
+      "at": "2026-11-24T19:34:50.955Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c43efa77-89bb-41f2-b4fe-8cf8ca16e8c0",
+      "at": "2026-11-24T19:15:02.545Z",
+      "action": "payment.checkout_failed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-01",
+        "provider": "stripe",
+        "error": "fetch failed"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "abaa3b20-3140-4d5d-a2de-ce04f8f61170",
+      "at": "2026-11-24T19:14:51.730Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-24-01",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "status": "payment_pending",
+        "consentLanguage": "nl",
+        "termsVersion": "vintrue-terms-2026-10-30-v2-nl"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "407f624b-7279-4541-9c5f-6e46e6f480bb",
+      "at": "2026-11-24T18:51:12.435Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ac3feffc-8e31-4778-b27a-caf43adf096b",
+      "at": "2026-11-24T17:58:31.299Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "60fc2d1d-72ba-48ef-9401-865d3d177c3a",
+      "at": "2026-11-24T17:29:19.712Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ee3f6821-6683-4357-922f-c5afa6caa141",
+      "at": "2026-11-23T22:30:01.148Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "c7a97627-f101-40aa-a38c-cae03e495678",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c73647d2-ae57-4019-a95e-779da8111ab1",
+      "at": "2026-11-23T22:29:34.949Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-23-01",
+        "provider": "stripe",
+        "transactionId": "pi_3Uf5jpLuLv1sEnnK0DW3tzL5"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "7639197e-2968-4319-9611-dc04e7fe82d2",
+      "at": "2026-11-23T22:29:34.945Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-23-01",
+        "provider": "stripe",
+        "transactionId": "pi_3Uf5jpLuLv1sEnnK0DW3tzL5"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "1b173564-4fc4-4894-9146-f28da9811640",
+      "at": "2026-11-23T22:28:47.284Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-23-01",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c55db44d-10a3-4469-a438-66b5265d94a6",
+      "at": "2026-11-23T22:24:41.580Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b929a967-d2a7-4b34-b957-36ebb4425996",
+      "at": "2026-11-23T22:24:07.682Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "18756256-42f7-4164-a02e-8ba056ca5cc5",
+      "at": "2026-11-21T20:45:42.210Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dbefdf92-8b12-4774-a3da-34bb60122cc2",
+      "at": "2026-11-21T20:44:18.475Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-14",
+        "sha256": "8bb28637c1d49e220050afe3febfb4ae1e99c393bad568cf8999a2350f389a8a",
+        "sizeBytes": 560314
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "10df47fb-d8ed-4f57-bf7b-15d26a645afb",
+      "at": "2026-11-21T20:44:09.423Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "074009ca-3047-426a-9271-c600d48c62ec",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f91ae622-22e4-4f95-bf10-ab2aae198df9",
+      "at": "2026-11-21T20:43:39.984Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-14",
+        "provider": "stripe",
+        "transactionId": "pi_3UeL8GLuLv1sEnnK0Wi5Tg39"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "7fa6db17-d9ab-4ba8-bda5-9625a4867315",
+      "at": "2026-11-21T20:43:39.974Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-14",
+        "provider": "stripe",
+        "transactionId": "pi_3UeL8GLuLv1sEnnK0Wi5Tg39"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "f58732ae-1ab4-4e3e-91b5-326e603014c0",
+      "at": "2026-11-21T20:43:16.516Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-14",
+        "packageName": "Platinum",
+        "amount": 99.95,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "platinum",
+          "packageName": "Platinum",
+          "primaryCents": 9995,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 2999,
+          "discountCents": 2999,
+          "discountLabel": "Window Sticker included",
+          "certificateIncluded": false,
+          "totalCents": 9995,
+          "lineItems": [
+            {
+              "id": "platinum",
+              "name": "Platinum",
+              "type": "primary",
+              "amountCents": 9995
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 12994,
+          "primaryAmount": "99.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "29.99",
+          "totalAmount": "99.95"
+        },
+        "currency": "EUR",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7da507b4-5e32-4816-9771-a3dc6664982a",
+      "at": "2026-11-21T20:42:38.361Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-13",
+        "provider": "stripe",
+        "transactionId": "pi_3UeL7FLuLv1sEnnK1xOyZFbU"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "6940348f-a05e-4c74-8f00-25d702c93325",
+      "at": "2026-11-21T20:42:38.351Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-13",
+        "provider": "stripe",
+        "transactionId": "pi_3UeL7FLuLv1sEnnK1xOyZFbU"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "be08e0e2-17ba-4aa3-90f0-0994c2e2b0e4",
+      "at": "2026-11-21T20:42:10.257Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-13",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "EUR",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "EUR",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "47ac8347-64fd-4f63-99f6-050e799542a2",
+      "at": "2026-11-21T20:36:37.899Z",
+      "action": "portal.code_delivery_failed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-12",
+        "error": "Email delivery is not configured. Set RESEND_API_KEY and EMAIL_FROM."
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5e4bb6f2-6303-49fc-a201-f51ff4a70710",
+      "at": "2026-11-21T20:34:37.401Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-12",
+        "sha256": "3e0702b272579e06b8e2c3e144dec92398de5682c2e9fec3494eb283fa83b17a",
+        "sizeBytes": 915973
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "23f423cc-1cb8-4900-99c4-6496c9601f03",
+      "at": "2026-11-21T20:32:30.837Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a83df43c-ba76-4731-8c6c-9b2b866a5979",
+      "at": "2026-11-21T20:31:17.077Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-12",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKwGLuLv1sEnnK0kGPaojy"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "51bd2c02-93f8-466f-b228-33155d8fd733",
+      "at": "2026-11-21T20:31:17.072Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-12",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKwGLuLv1sEnnK0kGPaojy"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "5fb2acc6-03ce-46a3-aa1a-f56fdd5d9b41",
+      "at": "2026-11-21T20:30:56.125Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-12",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "831ff11e-7bbd-4428-b8d3-f99e321063b1",
+      "at": "2026-11-21T20:30:36.746Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "fd1e097b-c17b-48ae-9a2f-d4571fa6da83",
+      "at": "2026-11-21T20:13:42.209Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 2,
+        "orderNumbers": [
+          "AVR-AV-2026-11-21-11",
+          "AVR-AV-2026-11-21-10"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "523d2f21-d4ce-424f-9e6d-5cb2b9a831a7",
+      "at": "2026-11-21T20:13:18.498Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-11",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKesLuLv1sEnnK1sUf4IEa"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "142aceb6-908f-4179-bb12-4a394954ad42",
+      "at": "2026-11-21T20:13:18.494Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-11",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKesLuLv1sEnnK1sUf4IEa"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "e154d7fb-0747-4fe9-8bfd-c2ffa28301bd",
+      "at": "2026-11-21T20:12:55.248Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-11",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b2e3c4dc-4192-41b1-9db9-d257b3c68f71",
+      "at": "2026-11-21T20:12:31.530Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "411a52d4-a7fb-4739-b4e0-7af99fa48c57",
+      "at": "2026-11-21T20:00:40.835Z",
+      "action": "order.completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-10",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKSeLuLv1sEnnK1UfWJY36"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "e82653ce-d76e-436e-8aa0-1abe9e48e831",
+      "at": "2026-11-21T20:00:40.827Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-10",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKSeLuLv1sEnnK1UfWJY36"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "d7628d0c-091c-4872-b531-341235e5ecef",
+      "at": "2026-11-21T20:00:04.847Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-10",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2bc21ad9-3a16-45b9-bd9a-f5b32f40fb4e",
+      "at": "2026-11-21T19:59:44.040Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "80f0db7c-10c6-4c46-9f7f-87abb8a1668b",
+      "at": "2026-11-21T19:59:26.241Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 3,
+        "orderNumbers": [
+          "AVR-AV-2026-11-21-09",
+          "AVR-AV-2026-11-21-08",
+          "AVR-DS-2026-11-21-07"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a7324717-8e4b-4eb1-8645-1d713cd82fc1",
+      "at": "2026-11-21T19:59:08.773Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-09",
+        "provider": "stripe",
+        "transactionId": "pi_3UeKRALuLv1sEnnK0WPCUmia"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "7eb8e1fa-f2fb-4672-82c3-7f9a4babbfe3",
+      "at": "2026-11-21T19:58:39.635Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-09",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": false,
+          "stickerCents": 0,
+          "stickerDiscountCents": 0,
+          "discountCents": 0,
+          "discountLabel": "",
+          "certificateIncluded": false,
+          "totalCents": 4495,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            }
+          ],
+          "subtotalCents": 4495,
+          "primaryAmount": "44.95",
+          "stickerAmount": "0.00",
+          "discountAmount": "0.00",
+          "totalAmount": "44.95"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e1d5b7d9-8d18-4057-b408-8f7e27281872",
+      "at": "2026-11-21T19:40:00.532Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-08",
+        "provider": "stripe",
+        "transactionId": "pi_3UeK8cLuLv1sEnnK0zb8sHS5"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "891426cc-1168-437b-aaff-273ce89fa091",
+      "at": "2026-11-21T19:39:13.753Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-08",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6d2bd287-f747-4ec3-91ea-ab80453d1c40",
+      "at": "2026-11-21T19:38:41.959Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c5b3ca96-92c1-49c4-8057-c0c1ba1e14ce",
+      "at": "2026-11-21T17:41:09.859Z",
+      "action": "payment.checkout_failed",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-07",
+        "provider": "stripe",
+        "error": "fetch failed"
+      },
+      "ip": "unknown"
+    },
+    {
+      "id": "c4ed74b0-8760-4085-a761-170d2310160e",
+      "at": "2026-11-21T17:37:16.026Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-07",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "bc58bf54-0ae5-47e4-b37d-4a669ce32947",
+      "at": "2026-11-21T17:36:27.599Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 10,
+        "orderNumbers": [
+          "AVR-DS-2026-11-21-06",
+          "AVR-DS-2026-11-21-05",
+          "AVR-DS-2026-11-21-04",
+          "AVR-AV-2026-11-21-03",
+          "AVR-AV-2026-11-21-02",
+          "AVR-JM-2026-11-21-01",
+          "AVR-AV-2026-11-06-02",
+          "AVR-AV-2026-11-06-01",
+          "AVR-JS-2026-11-05-01",
+          "AVR-AV-2026-10-30-01"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f989ead6-30e2-4ea0-b7b1-262145225960",
+      "at": "2026-11-21T17:34:28.225Z",
+      "action": "payment.confirmed",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-06",
+        "provider": "stripe",
+        "transactionId": "pi_3UeIBALuLv1sEnnK1hOj0ZDi"
+      },
+      "ip": "local"
+    },
+    {
+      "id": "ca65671e-b1a1-489a-bfbd-1ef1cc944e1b",
+      "at": "2026-11-21T17:33:27.647Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-06",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "082ab9cf-62b5-425b-bf92-617fe0013b60",
+      "at": "2026-11-21T17:32:54.945Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9b4a9a27-84fc-4d7a-bcc0-b5abffb1e3ec",
+      "at": "2026-11-21T17:32:33.779Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f68e984b-7764-4f55-bdd5-644d9437822a",
+      "at": "2026-11-21T17:23:36.502Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-05",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b718062f-851c-4198-950b-5c816cf253ee",
+      "at": "2026-11-21T17:22:56.041Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "05ccb685-ecbf-4c19-a0b8-f6c10350cf6b",
+      "at": "2026-11-21T17:22:24.588Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-DS-2026-11-21-04",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "203873ce-feb3-4a46-878c-03430fc58b88",
+      "at": "2026-11-21T17:20:19.780Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-03",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "26ae5f7c-898c-4b58-917f-595b0d9db4ba",
+      "at": "2026-11-21T17:19:50.316Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test",
+            "missing": []
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "57777971-ffa2-4e20-a6fc-b868028456d4",
+      "at": "2026-11-21T17:19:26.247Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5ea0c6c6-64d8-4130-a4fa-330a2880784a",
+      "at": "2026-11-21T17:02:53.263Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-21-02",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ff9f9fdf-1920-4089-86a8-93ca0d769fbd",
+      "at": "2026-11-21T17:02:19.722Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "live webhook signing secret",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "client ID",
+              "client secret",
+              "live webhook ID",
+              "public HTTPS website URL (APP_BASE_URL)"
+            ]
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live",
+            "missing": [
+              "API Login ID",
+              "transaction key",
+              "webhook signature key",
+              "public HTTPS website URL (APP_BASE_URL)",
+              "public HTTPS website URL for payment notifications"
+            ]
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test",
+            "missing": [
+              "test API key",
+              "checkout return URL in APP_BASE_URL (public HTTPS or local test URL)"
+            ]
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ecc54d33-a9ec-4cfc-81b2-bd4b6154217f",
+      "at": "2026-11-21T16:58:15.546Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-JM-2026-11-21-01",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "24da423b-aa06-4290-a99f-a4c3eb7694d1",
+      "at": "2026-11-21T16:57:39.042Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9ae57de3-c184-4ec9-ab5f-4c58a1bea941",
+      "at": "2026-11-21T16:46:30.500Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "115313cf-a711-41aa-80de-0f5ea151992b",
+      "at": "2026-11-06T06:16:06.619Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-06-02",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "28645c1b-f0a7-4fdb-8755-ad37692c3c8e",
+      "at": "2026-11-06T06:15:33.998Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-11-06-01",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "926d4ae4-9152-431e-be20-b4bd3b5aed43",
+      "at": "2026-11-06T06:15:14.716Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5406f853-ddb9-40cf-99a4-cb09efc2fde0",
+      "at": "2026-11-06T05:43:04.062Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8c576b22-455f-439a-9a9e-bcb6c660a5ac",
+      "at": "2026-11-05T09:44:50.022Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "52d0d036-b09c-484b-9dde-bf1cca39a9e1",
+      "at": "2026-11-05T09:43:56.461Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dde93e71-884e-4a63-b76b-02e84a12f8aa",
+      "at": "2026-11-05T09:43:43.211Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dd1c0321-65c1-4a4c-9b86-9b89515d99de",
+      "at": "2026-11-05T09:43:25.483Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": true,
+            "mode": "test"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9489f4de-dc30-4c14-90c4-605dfecf54d7",
+      "at": "2026-11-05T09:43:09.581Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "55e4d55e-4a16-4b7e-ba07-df59400bbe27",
+      "at": "2026-11-05T09:42:47.655Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "1f08c7fb-dcea-4315-bb77-9fbb4f167604",
+      "at": "2026-11-05T09:34:58.041Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "test"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "42cfc17b-32bb-498f-a598-401233dbfe8d",
+      "at": "2026-11-05T09:34:37.413Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "517d5be5-efea-40c3-82bf-7e9cc85b93af",
+      "at": "2026-11-05T09:11:49.837Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9a5e144a-9379-42fe-9f28-f74bfb5c3ae7",
+      "at": "2026-11-05T09:11:35.021Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7800850d-5055-4ceb-8c72-b9025be31f5e",
+      "at": "2026-11-05T09:11:13.311Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2ac62279-0718-4e64-914a-d81522dcf7f4",
+      "at": "2026-11-05T09:04:34.430Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-JS-2026-11-05-01",
+        "packageName": "Basic",
+        "amount": 67.44,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "basic",
+          "packageName": "Basic",
+          "primaryCents": 4495,
+          "stickerSelected": true,
+          "stickerCents": 2999,
+          "stickerDiscountCents": 750,
+          "discountCents": 750,
+          "discountLabel": "Window Sticker 25% discount",
+          "certificateIncluded": false,
+          "totalCents": 6744,
+          "lineItems": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "type": "primary",
+              "amountCents": 4495
+            },
+            {
+              "id": "window-sticker",
+              "name": "Window Sticker",
+              "type": "addon",
+              "amountCents": 2999
+            }
+          ],
+          "subtotalCents": 7494,
+          "primaryAmount": "44.95",
+          "stickerAmount": "29.99",
+          "discountAmount": "7.50",
+          "totalAmount": "67.44"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9670755d-2c9b-403a-91c9-002410f236ca",
+      "at": "2026-11-05T09:03:38.672Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b7726ca4-1e56-4591-9c01-56aebd50ff94",
+      "at": "2026-11-05T09:03:30.074Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "496eae20-2dbe-4863-a859-2ec350a08d7e",
+      "at": "2026-11-05T09:03:27.931Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c8caccdb-78e3-4547-858e-45064668cdf9",
+      "at": "2026-11-05T09:03:23.258Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "61a0834b-eabb-4457-a0d9-5cfbe50cc622",
+      "at": "2026-11-05T09:03:19.320Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "cca63ee9-bbf7-4a12-8e79-0a5418cabb07",
+      "at": "2026-11-05T09:03:17.841Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e6d29ae7-d02d-42df-8cbb-e229309053e2",
+      "at": "2026-11-05T09:02:56.753Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "live"
+          },
+          {
+            "id": "mollie",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "025ed60b-ade0-4fd3-8366-cc6515c7ae09",
+      "at": "2026-11-05T08:54:18.644Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2245a0fa-2265-47c3-89ff-9f30bf5b0ae4",
+      "at": "2026-11-04T20:47:10.805Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "1e61c8e1-08ee-450e-bf14-e7bbdd216f92",
+      "at": "2026-11-04T20:47:08.778Z",
+      "action": "website.logo_updated",
+      "detail": {},
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "fb22bd90-b9f0-4e60-a1a2-151fff547616",
+      "at": "2026-11-04T20:46:37.523Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "23756230-09ca-41fa-8a67-7f5bbbda0da9",
+      "at": "2026-11-04T20:46:32.973Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7880b235-07bc-4978-b1be-2895378dd8be",
+      "at": "2026-11-04T20:46:29.005Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5251941a-fed2-4459-bfdc-a9efb6de83c0",
+      "at": "2026-11-04T20:46:23.720Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "30ddc6f7-4cb2-4e08-8077-592e1aab21bf",
+      "at": "2026-11-04T20:46:15.477Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a132a812-1c2c-4eb3-a071-2d48873546aa",
+      "at": "2026-11-04T20:46:00.307Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e1a008ed-3a70-4eb2-ad81-1b193302a3af",
+      "at": "2026-11-04T20:42:35.303Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e5bf641c-f877-49e8-8daf-a338af344f88",
+      "at": "2026-11-04T20:40:55.852Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "4429cf15-c175-46a5-a348-a7a6a6fb4481",
+      "at": "2026-11-04T20:34:05.369Z",
+      "action": "website.reviews_updated",
+      "detail": {
+        "reviewCount": 2
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8c7631e6-b2a9-4c80-81eb-b028ed5cdba3",
+      "at": "2026-11-04T20:33:46.817Z",
+      "action": "website.reviews_updated",
+      "detail": {
+        "reviewCount": 1
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "14dc53d6-691e-4271-81a5-15362797b513",
+      "at": "2026-11-04T20:16:04.783Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dc5f3d7c-9044-48eb-a917-c6bc581e94a0",
+      "at": "2026-11-04T20:13:32.309Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2e1f2bb2-866e-44ac-963a-7f3ce787a10e",
+      "at": "2026-11-04T19:58:27.360Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8a228465-d1b4-4835-8a84-f5b4e40722a4",
+      "at": "2026-11-03T13:13:01.758Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "75afbe16-ae8c-40e5-82ad-e08b19b8fc84",
+      "at": "2026-11-02T01:42:53.901Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "08dc5d68-65ea-41be-ac0e-85f6f2e775eb",
+      "at": "2026-11-02T01:30:16.229Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "310e2395-22b9-43fb-91ee-c8809f12d9cd",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "001a99a2-4f9b-46bd-8b0b-637755a17881",
+      "at": "2026-11-02T01:28:08.144Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-30-01",
+        "sha256": "b4f3654fd8f245ef0d3a1d1b57e8cfb0f5ea01fb34a14df303b46a0f66888a6a",
+        "sizeBytes": 1392850
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "277d8b30-ddce-4a15-b02e-b90b51871447",
+      "at": "2026-11-02T01:20:27.044Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b4358dab-f9d0-4b5a-9a60-f5c2175ea44d",
+      "at": "2026-11-01T07:11:38.916Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "bf351f56-18a6-4a6e-bda8-693747c9dd5a",
+      "at": "2026-11-01T07:11:36.950Z",
+      "action": "admin.logout",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8334aae1-0935-4d9f-9bde-4b45affab10c",
+      "at": "2026-11-01T06:46:41.722Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "58185114-1942-42fa-8166-ee287ce16c1f",
+      "at": "2026-10-30T04:32:11.421Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "95747cb9-9724-4837-91cc-f00a4e09e2ea",
+      "at": "2026-10-30T04:31:22.865Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5d659894-f245-45f9-a3cc-ed5c62bcefe6",
+      "at": "2026-10-30T04:24:13.282Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "eaaad538-b754-4ac6-a466-c817a3ebda3f",
+      "at": "2026-10-30T04:22:34.001Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "416160c0-7830-40e9-9c09-47ce0ffce73b",
+      "at": "2026-10-30T03:51:24.692Z",
+      "action": "dispute.case_draft_saved",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-30-01",
+        "stripeDisputeId": "pi_3UU8cALuLv1sEnnK1trHNHK5"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9cc8a639-07c6-40ad-a145-82b7d1d0082e",
+      "at": "2026-10-30T03:35:53.006Z",
+      "action": "dispute.case_draft_saved",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-30-01",
+        "stripeDisputeId": ""
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ebf22697-a2af-4c85-a508-83266426deb2",
+      "at": "2026-10-30T03:28:05.282Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5ffe6fbf-4a7a-4857-97d3-c0344a9dc813",
+      "at": "2026-10-30T03:06:05.316Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-30-01",
+        "packageName": "Gold",
+        "amount": 89.95,
+        "pricingSnapshot": {
+          "currency": "USD",
+          "packageId": "gold",
+          "packageName": "Gold",
+          "primaryCents": 8995,
+          "stickerSelected": false,
+          "stickerCents": 0,
+          "stickerDiscountCents": 0,
+          "discountCents": 0,
+          "discountLabel": "",
+          "certificateIncluded": false,
+          "totalCents": 8995,
+          "lineItems": [
+            {
+              "id": "gold",
+              "name": "Gold",
+              "type": "primary",
+              "amountCents": 8995
+            }
+          ],
+          "subtotalCents": 8995,
+          "primaryAmount": "89.95",
+          "stickerAmount": "0.00",
+          "discountAmount": "0.00",
+          "totalAmount": "89.95"
+        },
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-30-v2",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "bb9fe9a9-04ce-466e-919c-09d0e75537ab",
+      "at": "2026-10-30T02:59:35.510Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "96410ca4-34fc-477d-b044-6c6bc29e06f0",
+      "at": "2026-10-17T21:10:37.159Z",
+      "action": "orders.deleted",
+      "detail": {
+        "count": 7,
+        "orderNumbers": [
+          "AVR-AV-2026-10-17-06",
+          "AVR-AV-2026-10-17-05",
+          "AVR-AV-2026-10-17-04",
+          "AVR-AV-2026-10-17-03",
+          "AVR-ES-2026-10-17-02",
+          "AVR-AZ-2026-10-17-01",
+          "AVR-AM-2026-10-16-01"
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a0f49552-82c3-417f-9646-9f011761d43c",
+      "at": "2026-10-17T20:25:45.2Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8a75c554-80a6-4ced-b786-ae621fa2753d",
+      "at": "2026-10-17T19:37:41.744Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "13b8d451-52c1-43e0-abf5-f86d07f41d4a",
+      "at": "2026-10-17T08:14:15.409Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-04",
+        "sha256": "2e4caabfba72eb35d7907efae119abe4578578d395baee317ecddac188eced4f",
+        "sizeBytes": 58273
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "074c3c77-36bb-4d0b-9f4c-fde9d4d62df4",
+      "at": "2026-10-17T08:14:08.596Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-06",
+        "sha256": "2e4caabfba72eb35d7907efae119abe4578578d395baee317ecddac188eced4f",
+        "sizeBytes": 58273
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "57adcabc-5c32-4373-8512-0cf9ca17c1bc",
+      "at": "2026-10-17T08:06:51.257Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6f923e3f-41f4-4d95-89f2-b980e88462cb",
+      "at": "2026-10-17T08:06:40.425Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "3e0474e9-17b3-4eda-9c7e-fea737409ca4",
+      "at": "2026-10-17T08:06:26.358Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-05",
+        "sha256": "12b199b63ab69674d7dd0697a10ed05cbeb4958730e74502b79e0a9b555f37d0",
+        "sizeBytes": 1649417
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6f770f04-78c3-4c87-82f5-bbbcd34e2f67",
+      "at": "2026-10-17T08:04:34.083Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c0be4349-3b8f-4435-bbe0-6b6340810373",
+      "at": "2026-10-17T08:03:46.25Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "7a31f1b1-0842-4ea4-a413-3207f3c85931",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "36150894-e4c3-4b39-b9c0-d21d2fff3b22",
+      "at": "2026-10-17T08:03:11.553Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "fc53f3c9-ef71-49ce-b951-2818d0e87d3f",
+      "at": "2026-10-17T08:02:15.402Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-06",
+        "sha256": "2e4caabfba72eb35d7907efae119abe4578578d395baee317ecddac188eced4f",
+        "sizeBytes": 58273
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "43e084e2-7332-4db6-88b2-36b02970af74",
+      "at": "2026-10-17T08:02:05.277Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "23c988fd-286b-460c-a127-2a45c018d607",
+      "at": "2026-10-17T08:02:04.026Z",
+      "action": "admin.logout",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f8a65146-fa2d-45d1-b223-5446ffa78b57",
+      "at": "2026-10-17T08:01:36.971Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "86935dea-1480-499a-bb3a-453214ce40fc",
+      "at": "2026-10-17T07:52:51.322Z",
+      "action": "payment.demo_checkout_completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-06",
+        "charged": false
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "da752324-efb0-47f4-8934-588fc47a9df7",
+      "at": "2026-10-17T07:52:27.311Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-06",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-17-v1",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2e49b853-515a-42e6-b25e-e5d91ea3bdec",
+      "at": "2026-10-17T07:37:03.342Z",
+      "action": "payment.demo_checkout_completed",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-05",
+        "charged": false
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "af5e3201-8046-4212-99d8-89605fb3cbad",
+      "at": "2026-10-17T07:36:41.05Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-05",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-17-v1",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "521964c8-910f-4aa9-aa95-9a0f0eb48c3b",
+      "at": "2026-10-17T07:36:12.704Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7b1cfaa8-7237-41c3-ac00-cb83fb488b79",
+      "at": "2026-10-17T07:35:34.257Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "76662e5a-3073-4e59-903b-6455436f492d",
+      "at": "2026-10-17T07:34:18.199Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "8a5b8740-fc37-4c8f-848c-4792d23fcde9",
+      "at": "2026-10-17T07:34:14.362Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c6b08a67-7f2c-47b6-b4be-abdb501b191b",
+      "at": "2026-10-17T07:33:18.542Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a3f25b47-44c7-4f86-aa3e-ec0ae76a886b",
+      "at": "2026-10-17T07:25:24.893Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-04",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-17-v1",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dad3146f-65d6-4422-a3c8-f949805cf67d",
+      "at": "2026-10-17T07:24:58.666Z",
+      "action": "payment.gateways_updated",
+      "detail": {
+        "gateways": [
+          {
+            "id": "stripe",
+            "enabled": false,
+            "mode": "test"
+          },
+          {
+            "id": "paypal",
+            "enabled": false,
+            "mode": "sandbox"
+          },
+          {
+            "id": "authorize_net",
+            "enabled": false,
+            "mode": "test"
+          }
+        ]
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "138ba62d-79b0-45cc-ba24-bc2fd7208b1f",
+      "at": "2026-10-17T07:24:52.723Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "cf9260dc-2329-4269-a26a-6b66d9bc98bb",
+      "at": "2026-10-17T07:23:25.38Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-AV-2026-10-17-03",
+        "packageName": "Basic",
+        "amount": 44.95,
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-17-v1",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "e41159bf-1d89-4885-8443-85a1cc26b6b6",
+      "at": "2026-10-17T07:23:00.284Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6cb59eb8-876b-4739-867a-9843cc8d66ba",
+      "at": "2026-10-17T07:21:51.316Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "9116bc96-6145-4cab-b288-2e4aac0da62c",
+      "at": "2026-10-17T07:19:22.583Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c6e7c10b-c576-49e9-9fbe-907ee3970f5c",
+      "at": "2026-10-17T07:19:18.364Z",
+      "action": "admin.logout",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7a1040a4-ab3d-4450-b1ae-11c97b5ad6d7",
+      "at": "2026-10-17T06:56:54.879Z",
+      "action": "report.download_completed",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "accessType": "browser_or_app",
+        "authMethod": "email_otp",
+        "bytesSent": 58273,
+        "downloadCount": 2
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "d1bf59a9-c750-4c9f-b6a9-f7933100b50c",
+      "at": "2026-10-17T06:56:42.908Z",
+      "action": "portal.email_verified",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "sessionExpiresAt": "2026-10-17T07:26:42.904Z"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "76007320-7b6e-4098-bb16-04eeb6348765",
+      "at": "2026-10-17T06:56:39.98Z",
+      "action": "portal.test_code_issued",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "providerMessageId": "local-test-mode"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "3a19dbc6-31c3-4afe-9823-ad8e69c3b855",
+      "at": "2026-10-17T06:55:28.575Z",
+      "action": "report.download_completed",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "accessType": "browser_or_app",
+        "authMethod": "email_otp",
+        "bytesSent": 58273,
+        "downloadCount": 1
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "807d4fe0-a608-4443-bdc5-71926f67aba3",
+      "at": "2026-10-17T06:54:44.113Z",
+      "action": "portal.email_verified",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "sessionExpiresAt": "2026-10-17T07:24:44.109Z"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "ac69703c-433a-4143-880e-67360b51ef49",
+      "at": "2026-10-17T06:54:36.96Z",
+      "action": "portal.test_code_issued",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "providerMessageId": "local-test-mode"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f5215d61-e2e9-4cfd-b3bd-ab683d7b0686",
+      "at": "2026-10-17T06:53:59.027Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "f2f7fddb-8db4-4260-b9df-d8a883f42ae7",
+      "at": "2026-10-17T06:53:37.513Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "sha256": "2e4caabfba72eb35d7907efae119abe4578578d395baee317ecddac188eced4f",
+        "sizeBytes": 58273
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "386e8ed4-330e-43de-a6d2-feb1945becb7",
+      "at": "2026-10-17T06:53:08.992Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "AVR-ES-2026-10-17-02",
+        "packageName": "Gold",
+        "amount": 89.95,
+        "currency": "USD",
+        "termsVersion": "vintrue-terms-2026-10-17-v1",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5bbf8adc-4198-4750-9f79-35bca3181b55",
+      "at": "2026-10-17T06:46:11.869Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2753b741-9d63-40de-99b3-6cec91db115f",
+      "at": "2026-10-17T06:36:38.164Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "AVR-AZ-2026-10-17-01",
+        "sha256": "2e4caabfba72eb35d7907efae119abe4578578d395baee317ecddac188eced4f",
+        "sizeBytes": 58273
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "23b51fe6-77aa-490f-932c-e2ac347dd213",
+      "at": "2026-10-17T06:36:15.986Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "34269496-d8bb-46a8-9e20-ed8345323fae",
+      "at": "2026-10-17T04:40:16.091Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "f7d555d2-be08-453e-816b-352c197e6a13",
+        "status": "chargeback"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "d23deadf-1a08-44f2-98e1-fdc960a909dc",
+      "at": "2026-10-17T04:38:21.248Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "f7d555d2-be08-453e-816b-352c197e6a13",
+        "status": "chargeback"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "dac19953-773f-45ff-a2b7-a6a416599939",
+      "at": "2026-10-17T04:27:57.438Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "f7d555d2-be08-453e-816b-352c197e6a13",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "b0e7dcc2-cb1e-4c72-ba2b-59744157bec5",
+      "at": "2026-10-17T04:27:54.471Z",
+      "action": "agents.updated",
+      "detail": {
+        "count": 3
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "13d2147c-eb61-40f0-b2ff-116f01b36cc4",
+      "at": "2026-10-17T04:25:25.927Z",
+      "action": "report.downloaded",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "downloadCount": 2
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "6196503d-af84-43c3-8b8d-bd14118c4a4b",
+      "at": "2026-10-17T04:25:11.639Z",
+      "action": "report.downloaded",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "downloadCount": 1
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "1fca073b-f90c-48a9-8b40-5c147a8a6f32",
+      "at": "2026-10-17T04:25:04.345Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "260213af-5260-4ea6-b251-1ec2f85629d8",
+      "at": "2026-10-17T04:24:34.016Z",
+      "action": "report.uploaded",
+      "detail": {
+        "orderId": "f7d555d2-be08-453e-816b-352c197e6a13"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "74c27a45-641f-48ec-9d64-b5fb90f79fa1",
+      "at": "2026-10-17T04:23:46.221Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "3ffcd8b2-0a4b-4726-9e42-209ddd36b30f",
+      "at": "2026-10-17T04:01:12.32Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 10
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "21a6a68e-e95e-48c5-80ae-98a9ba9ef6ef",
+      "at": "2026-10-17T04:00:52.041Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "0d8a46b1-46f2-4aa2-9a5c-d907b4423d2a",
+      "at": "2026-10-17T04:00:28.996Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "729869fe-beb1-4793-8238-d2302aee0019",
+      "at": "2026-10-17T03:59:29.582Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "15ca63a0-da8d-42e2-b6ac-5c79ec49da07",
+      "at": "2026-10-17T03:59:11.801Z",
+      "action": "website.settings_updated",
+      "detail": {
+        "packageCount": 9
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "92debeb1-7397-4862-acf7-4056614bc3fc",
+      "at": "2026-10-17T03:57:59.605Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "7d868367-f9f2-4953-827c-b026f86d575c",
+      "at": "2026-10-17T03:50:19.793Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "f7d555d2-be08-453e-816b-352c197e6a13",
+        "packageName": "Gold",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "5d248fb4-b720-4243-b315-303f76f01d6a",
+      "at": "2026-10-17T03:49:25.252Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "63fdd21b-e262-4145-8334-c2ea4d69ee06",
+      "at": "2026-10-17T03:46:50.241Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "4159f558-4654-4d1d-a056-bf2e0f1587c3",
+      "at": "2026-10-17T03:39:25.657Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "3c053c7b-61c4-4997-99a5-f432cf74a4c9",
+      "at": "2026-10-16T21:35:12.755Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "c8363bca-de00-4106-a702-1b852fd5a1ba",
+      "at": "2026-10-16T21:35:06.278Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "refunded"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "2e47c600-1413-4af0-82d0-2e8d5f09ab07",
+      "at": "2026-10-16T21:33:52.158Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "38a3eb32-5c07-4ddf-892f-caedf192bfd2",
+      "at": "2026-10-16T21:33:36.245Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "1815de9a-a10e-444c-8a8a-adef7f57459e",
+      "at": "2026-10-16T21:33:08.01Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "delivered"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "a405e3f3-8959-483c-9fef-0688db43233c",
+      "at": "2026-10-16T21:25:27.119Z",
+      "action": "order.updated",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "0356812f-9e92-4e05-aa59-7409f6c79d9d",
+      "at": "2026-10-16T21:25:04.364Z",
+      "action": "order.created",
+      "detail": {
+        "orderId": "aa2f8979-6a19-4b5a-9ce9-7d521abd9321",
+        "packageName": "Basic",
+        "status": "payment_pending"
+      },
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "17be638a-fd01-4ea5-b1f3-3d519e31476f",
+      "at": "2026-10-16T21:22:03.966Z",
+      "action": "admin.login",
+      "detail": {
+        "email": "you@example.com"
+      },
+      "ip": "127.0.0.1"
+    }
+  ],
+  "agents": [
+    "Farhan",
+    "Sameer",
+    "Arsalan"
+  ],
+  "orderPrefix": "AVR",
+  "orderDailyCounts": {
+    "2026-11-24": 9,
+    "2026-11-21": 14,
+    "2026-11-23": 1,
+    "2026-10-30": 1,
+    "2026-11-05": 1,
+    "2026-11-06": 2,
+    "2026-10-16": 1,
+    "2026-10-17": 6
+  }
+}

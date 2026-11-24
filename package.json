@@ -1,0 +1,12 @@
+{
+  "name": "vintrue-vehicle-report-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VINtrue customer website and private admin panel",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
